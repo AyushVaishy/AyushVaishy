@@ -2,8 +2,9 @@
 <img src="https://i.ibb.co/5cX1v0P/github-banner.gif" width="100%" alt="Welcome Banner" />
 
 <h1 align="center">
-  Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1643515173/7373/wave_hello.gif" width="30" /> I'm <span style="color:#00F5D4">Ayush Vaishy</span>
+  Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" /> I'm <span style="color:#00F5D4">Ayush Vaishy</span>
 </h1>
+
 
 <p align="center">
   <b>🚀 Full Stack Web Developer | Frontend Enthusiast | API Integrator | UI/UX Lover</b>
