@@ -14,11 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=850&lines=I+design+and+develop+beautiful+UIs;I+build+scalable+%26+responsive+apps;Frontend+first+%2C+Full+Stack+capable;Always+learning+and+creating+cool+things!+💻" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushVaishy&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🌟 About Me  
@@ -34,7 +29,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,ts,html,css" /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres" /><br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
 </p>
 
