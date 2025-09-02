@@ -1,62 +1,67 @@
-<!-- HEADER: Animated Emoji and Intro -->
-<h1 align="center">
-  Hey there, I'm Ayush Vaishy <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />
-</h1>
-
-###  Full Stack Web Developer  
-Crafting responsive, pixel-perfect UIs with React & Tailwind CSS, while powering data-driven flows with Node.js, Prisma, and PostgreSQL.
-
----
-
-##  About Me
--  Graduated BCA — June 2025  
--  Full-time at **Creditor Academy**, building sleek user interfaces and integrating robust backend systems.  
--  Frontend-first developer deeply focused on UI aesthetics, API orchestration, and database efficiency.  
--  Currently leveling up in **Express.js** and deepening backend best practices.
-
----
-
-##  Tech & Design Stack
+<!-- HEADER -->
+<h1 align="center">Hey there, I'm Ayush Vaishy 👋</h1>
+<h3 align="center">💻 Full Stack Web Developer | UI Enthusiast | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <br />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Frontend+Lover+with+Backend+Skills;Building+Scalable+and+Beautiful+Web+Apps;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
 ---
 
-##  Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|-------------|
-| **QuickBite** | A Swiggy-like food-ordering web app with search, cart, and filter features. | React · Tailwind · Public APIs |
-| **Stack Overflow Clone** | A community Q&A platform clone built during internship. | MERN Stack |
-| **Portfolio (TS)** | My professional showcase built with a design-first mindset. | React · TypeScript |
-| **Frontend Mini Projects** | Includes Netflix landing, calculator, temperature converter & blog layouts. | HTML · CSS · JS |
-
-> ⭐ *Consider pinning your full-stack projects for quicker visibility.*
+## 🌟 About Me  
+🎓 Graduated **BCA** in June 2025, now working full-time at **Creditor Academy**.  
+💻 Specialized in **React.js**, **Tailwind CSS**, and **Node.js** with a strong grasp of backend tools like **Prisma** and **PostgreSQL**.  
+🎯 Focused on **designing pixel-perfect UIs** and **integrating powerful backend logic**.  
+📚 Currently learning **Express.js** to level up backend capabilities.  
 
 ---
 
-##  GitHub Stats & Activity
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushVaishy&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVaishy&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css,nodejs,express,prisma,postgres,git,github,vscode" />
 </p>
 
 ---
 
-##  Let’s Connect!
-[ Portfolio ](https://ayush-vaishy-portfolio-website.netlify.app/) • [ LinkedIn ](https://www.linkedin.com/in/ayush-vaishy-7272a0250)  
-> “Design speaks before words.” – Conveying my passion for aesthetics and logic through code.
+## 📂 Featured Projects
+
+### 🍔 [QuickBite](https://github.com/AyushVaishy/QuickBite)  
+A Swiggy-inspired food ordering platform with search, filters, and cart management.  
+**Tech:** React · Tailwind · Swiggy Public API  
+
+### 💬 [Stack Overflow Clone](https://github.com/AyushVaishy/Stack_Overflow)  
+Community Q&A platform built during internship.  
+**Tech:** MERN Stack  
+
+### 🎨 [Portfolio (TypeScript)](https://github.com/AyushVaishy/My-Portfolio)  
+Personal portfolio showcasing my work & skills.  
+**Tech:** React · TypeScript  
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushVaishy&theme=radical&show_icons=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVaishy&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushVaishy&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://ayush-vaishy-portfolio-website.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-vaishy-7272a0250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+💡 *"Design is intelligence made visible." — I bring both logic and creativity to every project I build.*
