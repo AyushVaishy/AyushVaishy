@@ -85,7 +85,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Thanks+for+visiting!;Don't+forget+to+star+my+repos+⭐;See+you+again+soon!+👋" />
-</p>
