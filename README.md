@@ -19,9 +19,12 @@
 ## 🌟 About Me  
 
 🎓 **BCA Graduate (2025)** — Currently a full-time developer at **Creditor Academy**.  
-💻 **Frontend Specialist** with backend skills — building with **React.js, Tailwind CSS, Bootstrap, Node.js, Prisma, PostgreSQL**.  
-⚡ Crafting **pixel-perfect UIs**, integrating APIs, and optimizing database workflows.  
-📚 Currently exploring **Express.js** to enhance backend performance.  
+
+💻 **Frontend Specialist** with backend skills — experienced in **React.js, Tailwind CSS, Bootstrap, Node.js, Prisma, PostgreSQL**.  
+
+⚡ Crafting **pixel-perfect UIs**, integrating APIs, and optimizing database workflows to deliver **smooth user experiences**.  
+
+📚 Currently exploring **Express.js** to enhance backend performance & scalability.  
 
 ---
 
@@ -86,6 +89,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Thanks+for+visiting!;Don't+forget+to+star+my+repos+⭐;See+you+again+soon!+👋" />
 </p>
-
-<!-- Footer -->
-<p align="center">💙 Crafted with passion & creativity by Ayush Vaishy</p>
