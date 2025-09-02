@@ -1,31 +1,41 @@
-<!-- Banner -->
+<!-- HEADER BANNER -->
 <img src="https://i.ibb.co/5cX1v0P/github-banner.gif" width="100%" alt="Welcome Banner" />
 
-<h1 align="center">Hey there! 👋 I'm Ayush Vaishy</h1>
+<h1 align="center">
+  Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1643515173/7373/wave_hello.gif" width="30" /> I'm <span style="color:#00F5D4">Ayush Vaishy</span>
+</h1>
 
 <p align="center">
-  <b>🚀 Full Stack Web Developer | UI/UX Enthusiast | API Integrator</b>  
+  <b>🚀 Full Stack Web Developer | Frontend Enthusiast | API Integrator | UI/UX Lover</b>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=I+Design+and+Develop+Beautiful+UIs;I+Build+Scalable+%26+Responsive+Apps;Frontend+Focused+%2C+Full+Stack+Capable;Always+Learning+and+Creating+Cool+Things!+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=850&lines=I+design+and+develop+beautiful+UIs;I+build+scalable+%26+responsive+apps;Frontend+first+%2C+Full+Stack+capable;Always+learning+and+creating+cool+things!+💻" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushVaishy&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-🎓 **BCA Graduate (2025)** — Full-time developer at **Creditor Academy**  
-💻 Frontend specialist with backend skills — **React.js, Tailwind CSS, Node.js, Prisma, PostgreSQL**  
-⚡ Passionate about creating **pixel-perfect UIs**, integrating APIs & managing databases  
-📚 Currently learning **Express.js** to strengthen backend capabilities  
+🎓 **BCA Graduate (2025)** — Currently a full-time developer at **Creditor Academy**.  
+💻 **Frontend Specialist** with backend skills — building with **React.js, Tailwind CSS, Bootstrap, Node.js, Prisma, PostgreSQL**.  
+⚡ Crafting **pixel-perfect UIs**, integrating APIs, and optimizing database workflows.  
+📚 Currently exploring **Express.js** to enhance backend performance.  
 
 ---
 
 ## 🛠️ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,ts,html,css,nodejs,express,prisma,postgres,git,github,vscode,postman,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,ts,html,css" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres" /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
 </p>
 
 ---
@@ -34,18 +44,28 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **QuickBite** 🍔 | Swiggy-inspired food ordering app with cart, search & filtering. | React · Tailwind · APIs |
-| **Stack Overflow Clone** 💬 | Community Q&A platform built during internship. | MERN Stack |
-| **Portfolio (TS)** 🎨 | My professional portfolio showcasing my work. | React · TypeScript |
-| **Frontend Mini Projects** 🛠️ | Netflix clone, calculator, blog, job portal, and more. | HTML · CSS · JS |
+| **QuickBite** 🍔 | Swiggy-inspired food-ordering app with cart, search, and location-based filtering. | React · Tailwind · APIs |
+| **Stack Overflow Clone** 💬 | Q&A platform built during internship. | MERN Stack |
+| **Portfolio (TypeScript)** 🎨 | My personal developer portfolio. | React · TypeScript |
+| **Frontend Mini Projects** 🛠️ | Netflix clone, calculator, blog, job portal & more. | HTML · CSS · JS |
+
+> 📌 *Check out my pinned repos to explore more!*
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Achievements & Trophies  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushVaishy&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVaishy&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushVaishy&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushVaishy&theme=radical&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVaishy&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
@@ -53,7 +73,7 @@
 ## 🎨 Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVaishy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVaishy&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +86,7 @@
 
 ---
 
-## 📬 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://ayush-vaishy-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>
@@ -77,8 +97,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Thanks+for+Visiting!;Don't+Forget+to+Star+My+Repos+⭐;Let's+Build+Something+Amazing+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Thanks+for+visiting!;Don't+forget+to+star+my+repos+⭐;See+you+again+soon!+👋" />
 </p>
 
 <!-- Footer -->
-<p align="center">💙 Crafted with Passion & Creativity by Ayush Vaishy</p>
+<p align="center">💙 Crafted with passion & creativity by Ayush Vaishy</p>
