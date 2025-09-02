@@ -7,8 +7,10 @@
 
 
 <p align="center">
-  <b>🚀 Full Stack Web Developer | Frontend Enthusiast | API Integrator | UI/UX Lover</b>
+  <b>🚀 Full Stack Web Developer | Frontend Specialist | API Integration Expert | Dedicated to Building High-Performance, User-Centric Applications</b>
 </p>
+
+
 
 <!-- Typing Animation -->
 <p align="center">
